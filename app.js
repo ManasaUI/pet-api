@@ -10,8 +10,6 @@ app.use(bodyParser.json());                                     // parse applica
 app.use(bodyParser.json({ type: 'application/vnd.api+json' })); // parse application/vnd.api+json as json
 
 
-
-
 router = require('./router/pet.js')(app);
 
 //connect to mongoose
