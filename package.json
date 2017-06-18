@@ -1,0 +1,17 @@
+{
+  "name": "petstore",
+  "version": "1.0.0",
+  "description": "simple petstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "morgan": "^1.8.2"
+  },
+  "author": "Manasa Eppa",
+  "license": "ISC"
+}
