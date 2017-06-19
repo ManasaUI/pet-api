@@ -13,5 +13,9 @@
     "morgan": "^1.8.2"
   },
   "author": "Manasa Eppa",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
 }
